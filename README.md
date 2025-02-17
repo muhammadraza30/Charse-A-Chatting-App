@@ -1,31 +1,62 @@
-                ******************************************
-                          PROJECT INSTRUCTIONS
-                ******************************************
+# **Project Instructions**
 
-1. Its a LAN based project so you can only able to send messages within your PC or
-   if you are connected with LAN or VLAN then you send messages with other PCs.
+---
 
-2. So at start you have enter an email address in EmailSender.java file and
-   its passkey which can be created from your google account setting and A receiver or Admin email.
+### **1. LAN-Based Communication**
 
-3. Then you have to enter you internet IP Address.
-  
-4. If you want to Login then just enter your username and password if you have an
-   account and if you do not have any account then first create an account.
+This is a Local Area Network (LAN) based messaging project. You can only send messages within your PC or, if connected to a LAN or VLAN, you can send messages to other PCs within the same network.
 
-5. After login in you see two feature private chats and group chats, if you want to
-   chat privately then just click at the user name in the table and then click on
-   open chat icon at the left side of the panel and if you want to chat with group then just click on group caht icon.
-   
-6. There is also a feature of searching you can search any user in real time.
+---
 
-7. And at the end you can just logout the account and close the app.
+### **2. Initial Setup**
 
-8. This is the link of the Demonstration Video so if you have any trouble you can check the video:
-   https://www.youtube.com/watch?v=k6pL32CnA8c
-   
-                      *******************************************
-                          THANK YOU FOR VISITING MY PROJECT
-                            And if you love it then Leave
-                          a like and follow on my profile
-                      ******************************************
+To get started, follow these steps:
+
+- Open the `EmailSender.java` file and enter your **email address**, **passkey** (which can be generated from your Google account settings), and the **receiver or admin's email address**.
+
+---
+
+### **3. Set Your IP Address**
+
+Enter your **internet IP address** in the appropriate field during the setup process.
+
+---
+
+### **4. User Login**
+
+- To log in, enter your **username** and **password**.
+- If you don’t have an account, you must create one before logging in.
+
+---
+
+### **5. Chat Features**
+
+Once logged in, you will have access to two main features:
+
+- **Private Chat:** Click on a username in the table, and then click the "Open Chat" icon on the left side of the panel to initiate a private chat.
+- **Group Chat:** Click on the "Group Chat" icon to enter a group chat.
+
+---
+
+### **6. Real-Time User Search**
+
+You can search for any user in real-time using the search feature.
+
+---
+
+### **7. Logout**
+
+When you're done, simply log out and close the app.
+
+---
+
+### **8. Demonstration Video**
+
+If you encounter any issues, you can watch the demonstration video for assistance:  
+[Watch the Demo](https://www.youtube.com/watch?v=k6pL32CnA8c)
+
+---
+
+### **9. Thank You!**
+
+Thank you for checking out my project! If you enjoyed it, feel free to leave a like and follow my profile for future updates.
