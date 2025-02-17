@@ -56,7 +56,6 @@ If you encounter any issues, you can watch the demonstration video for assistanc
 [Watch the Demo](https://www.youtube.com/watch?v=k6pL32CnA8c)
 
 ---
-
-#                                     **Thank You!**
+# **Thank You!**
 
 Thank you for checking out my project! If you enjoyed it, feel free to leave a like and follow my profile for future updates.
